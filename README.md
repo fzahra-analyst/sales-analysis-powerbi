@@ -38,7 +38,7 @@ The goal is to provide business insights on:
 - Monthly Sales Trend
 - Sales by Region & Category
 
-![Executive Overview](https://github.com/fzahra-analyst/Sales-Analysis/images/page1.png)
+![Executive Overview](https://github.com/fzahra-analyst/sales-analysis-powerbi/tree/main/images/page1.png)
 
 ---
 

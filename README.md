@@ -38,7 +38,7 @@ The goal is to provide business insights on:
 - Monthly Sales Trend
 - Sales by Region & Category
 
-![Executive Overview](images/executive_overview.png)
+![Executive Overview](images/page1.png)
 
 ---
 
@@ -48,7 +48,7 @@ The goal is to provide business insights on:
 - Sales vs Returns by Product
 - Category & Sub-category Performance
 
-![Product Insights](images/product_customer_insights.png)
+![Product Insights](images/page2.png)
 
 ---
 
@@ -57,7 +57,7 @@ The goal is to provide business insights on:
 - Return Rate by Category
 - Monthly Sales vs Returns Trend
 
-![Returns Insights](images/returns_quality_insights.png)
+![Returns Insights](images/page3.png)
 
 ---
 

@@ -38,7 +38,7 @@ The goal is to provide business insights on:
 - Monthly Sales Trend
 - Sales by Region & Category
 
-![Executive Overview](https://raw.githubusercontent.com/fzahra-analyst/REPO-NAME/main/images/page1.png)
+![Executive Overview](images/page1.png)
 
 ---
 
